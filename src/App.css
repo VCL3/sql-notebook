@@ -33,3 +33,19 @@
     transform: rotate(360deg);
   }
 }
+
+.sider {
+  width: 160px !important;
+  flex: 0 0 160px !important;
+  min-width: 80px !important;
+  background-color: #B8BECC;
+}
+
+.triggerMenu {
+  height: 72px;
+  padding: 16px;
+  border-bottom: 1px solid #B8BECC;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
